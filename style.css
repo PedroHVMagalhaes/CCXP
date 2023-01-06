@@ -1,0 +1,123 @@
+* {
+  margin: none;
+  padding: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+  background-color: #ffd900;
+}
+
+.text1 {
+  background-color: #514988;
+  text-align: center;
+  padding: 4vh;
+}
+
+#revive {
+  color: #f3c61f;
+  font-size: 70px;
+  margin-top: 5px;
+}
+
+h2 {
+  color: white;
+  margin-bottom: 60px;
+}
+
+p {
+  font-size: 29px;
+  color: white;
+}
+.timer {
+    display: flex;
+    margin-left: 2vw;
+    height: 15%;
+  }
+
+#dia {
+  color: #514988;
+  font-weight: 700;
+  font-size: 70px;
+  margin-top: 5%;
+  
+}
+#hora {
+  color: #514988;
+  font-weight: 700;
+  font-size: 70px;
+  margin-left: 2vw;
+  margin-top: 5%;
+  
+}
+#minuto {
+  color: #514988;
+  font-weight: 700;
+  font-size: 70px;
+  margin-left: 2vw;
+  margin-top: 5%;
+  
+}
+#segundo {
+  color: #514988;
+  font-weight: 700;
+  font-size: 70px;
+  margin-left: 2vw;
+  margin-top: 5%;
+}
+
+.main{
+    text-align: center;
+    width: 50%;
+}
+
+#text2{
+  color: #E33881;
+}
+
+#video{
+  margin-left: 1vw;
+}
+
+.container{
+  display: flex;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+#textFinal{
+  color: #F3C61F;
+  margin-left: 5rem;
+  margin-bottom: 4px;
+}
+
+button{
+  background-color: #514988;
+  width: 600px;
+  height: 150px;
+  color: white;
+  font-size: 42px;
+  font-weight: 700;
+  border-radius: 20px;
+  border-color: #514988;
+  margin-left: 100px;
+}
+
+button:hover {
+  background-color:#514988;
+  cursor: pointer;
+  color: #F3C61F;
+}
+
